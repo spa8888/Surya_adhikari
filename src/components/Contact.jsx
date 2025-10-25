@@ -73,7 +73,7 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="https://www.linkedin.com/in/surya-adhikari"
+                href="https://www.linkedin.com/in/adsurya"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="glass glass-hover rounded-lg p-4 flex items-center gap-4"

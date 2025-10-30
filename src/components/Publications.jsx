@@ -8,7 +8,7 @@ const Publications = () => {
       journal: 'Trees, Forests and People',
       date: 'Sep 2024',
       description: 'Research on using mobile terrestrial LiDAR to predict AGB of Populus and its hybrids with comparison to field-based allometric models.',
-      link: 'https://www.sciencedirect.com'
+      link: 'https://www.sciencedirect.com/science/article/pii/S2666719324001729?via%3Dihub'
     },
     {
       title: 'Assessment of soil organic carbon of tropical forest',

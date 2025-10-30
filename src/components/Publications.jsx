@@ -14,7 +14,8 @@ const Publications = () => {
       title: 'Assessment of soil organic carbon of tropical forest',
       journal: 'Nepalese Journal of Agricultural Sciences',
       date: 'Sep 2016',
-      description: 'Carbon assessment at different soil depths in Terai Sal-Shorea robusta forest of Nepal.'
+      description: 'Carbon assessment at different soil depths in Terai Sal-Shorea robusta forest of Nepal.',
+      link: 'https://www.researchgate.net/publication/364349389_Assessment_of_soil_organic_carbon_of_Tropical_Forest_Terai_Sal-Shorea_robusta_of_Nepal'
     }
   ];
 
